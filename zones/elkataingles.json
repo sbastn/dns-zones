@@ -1,0 +1,17 @@
+{
+  "name": "elkataingles.com",
+  "records": [
+    {
+      "name": "",
+      "type": "TXT",
+      "content": "This is a test",
+      "ttl": 3600
+    },
+    {
+      "name": "",
+      "type": "TXT",
+      "content": "This is another test",
+      "ttl": 3600
+    }
+  ]
+}
