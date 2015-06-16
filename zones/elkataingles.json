@@ -2,15 +2,15 @@
   "name": "elkataingles.com",
   "records": [
     {
-      "name": "",
-      "type": "TXT",
-      "content": "This is a test",
+      "name": "www",
+      "type": "CNAME",
+      "content": "www.elkataingles.com.s3-website-eu-west-1.amazonaws.com.",
       "ttl": 3600
     },
     {
       "name": "",
       "type": "TXT",
-      "content": "This is another test",
+      "content": "This is a test",
       "ttl": 3600
     }
   ]
