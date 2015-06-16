@@ -9,8 +9,8 @@
     },
     {
       "name": "",
-      "type": "TXT",
-      "content": "This is a test",
+      "type": "URL",
+      "content": "http://www.elkataingles.com",
       "ttl": 3600
     }
   ]
