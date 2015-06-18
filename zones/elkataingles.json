@@ -1,23 +1,23 @@
 {
   "name": "elkataingles.com",
   "records": [
-    {
-      "name": "www",
-      "type": "CNAME",
-      "content": "www.elkataingles.com.s3-website-eu-west-1.amazonaws.com.",
-      "ttl": 3600
-    },
-    {
-      "name": "",
-      "type": "URL",
-      "content": "http://www.elkataingles.com",
-      "ttl": 3600
-    },
-    {
-      "name": "",
-      "type": "TXT"
-      "content": "text1",
-      "ttl": 3600
-    },
+  {
+    "name": "www",
+    "type": "CNAME",
+    "content": "www.elkataingles.com.s3-website-eu-west-1.amazonaws.com.",
+    "ttl": 3600
+  },
+  {
+    "name": "",
+    "type": "URL",
+    "content": "http://www.elkataingles.com",
+    "ttl": 3600
+  },
+  {
+    "name": "",
+    "type": "TXT",
+    "content": "text1",
+    "ttl": 3600
+  },
   ]
 }
