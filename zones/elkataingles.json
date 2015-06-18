@@ -18,6 +18,6 @@
     "type": "TXT",
     "content": "text1",
     "ttl": 3600
-  },
+  }
   ]
 }
